@@ -50,7 +50,7 @@ mvn spring-boot:run
 Open your web browser and go to http://localhost:8082 (default port) to access the application.
 
 ## License
-This project is licensed under the [Your Preferred License].
+This project is licensed under the GNU General Public License v3.0.
 
 
 
